@@ -1,0 +1,4 @@
+aiohttp>=3.9
+aiogram>=3.4
+customtkinter>=5.2
+requests>=2.31
